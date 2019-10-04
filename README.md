@@ -1,7 +1,7 @@
 # kjlui31.github.io
 
-Hello World
-
-First Project steps.
-
-Portfolio
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Hello World</title>
+	</head>
